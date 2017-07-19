@@ -11,6 +11,7 @@
       <itemPath>/home/optimus/Documentos/Microchip/firmware/firmware_pic32/prjt_pic32_sst25fv/pic32_sst25fv_spi.X/HardwareProfile.h</itemPath>
       <itemPath>/home/optimus/Documentos/Microchip/firmware/firmware_pic32/prjt_pic32_sst25fv/pic32_sst25fv_spi.X/uart2.h</itemPath>
       <itemPath>/home/optimus/Documentos/Microchip/firmware/firmware_pic32/prjt_pic32_sst25fv/pic32_sst25fv_spi.X/Compiler.h</itemPath>
+      <itemPath>/home/optimus/Documentos/Microchip/firmware/firmware_pic32/prjt_pic32_sst25fv/git/pic32_sst25fv_spi.X/Cmd_sst25fv.h</itemPath>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
                    displayName="Linker Files"
