@@ -1250,25 +1250,25 @@ END GROUP
  .debug_pubnames
                 0x00000407       0x28 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
-.debug_info     0x00000000     0xafc1
+.debug_info     0x00000000     0xafd9
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x00000000      0xf67 build/XC32_PIC32MX360F512L/production/configuration_bits.o
- .debug_info    0x00000f67     0x109b build/XC32_PIC32MX360F512L/production/exceptions.o
- .debug_info    0x00002002      0xf5f build/XC32_PIC32MX360F512L/production/interrupts.o
- .debug_info    0x00002f61      0xf5b build/XC32_PIC32MX360F512L/production/system.o
- .debug_info    0x00003ebc      0xf70 build/XC32_PIC32MX360F512L/production/user.o
- .debug_info    0x00004e2c     0x13e9 build/XC32_PIC32MX360F512L/production/mainPIC32SST25FV.o
- .debug_info    0x00006215     0x19f4 build/XC32_PIC32MX360F512L/production/_ext/759756063/SST25VF016.o
- .debug_info    0x00007c09     0x1968 build/XC32_PIC32MX360F512L/production/_ext/759756063/uart2.o
- .debug_info    0x00009571     0x1423 build/XC32_PIC32MX360F512L/production/_ext/759756063/drv_spi.o
- .debug_info    0x0000a994       0xbf /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(pcache.o)
- .debug_info    0x0000aa53       0xb2 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_configure_system_lib.o)
- .debug_info    0x0000ab05       0xb6 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_disable_interrupts_lib.o)
- .debug_info    0x0000abbb       0xb6 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_restore_interrupts_lib.o)
- .debug_info    0x0000ac71       0xe8 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_info    0x0000ad59       0xc2 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_info    0x0000ae1b       0xca /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_info    0x0000aee5       0xdc /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_info    0x00000000      0xf6b build/XC32_PIC32MX360F512L/production/configuration_bits.o
+ .debug_info    0x00000f6b     0x109f build/XC32_PIC32MX360F512L/production/exceptions.o
+ .debug_info    0x0000200a      0xf63 build/XC32_PIC32MX360F512L/production/interrupts.o
+ .debug_info    0x00002f6d      0xf5f build/XC32_PIC32MX360F512L/production/system.o
+ .debug_info    0x00003ecc      0xf74 build/XC32_PIC32MX360F512L/production/user.o
+ .debug_info    0x00004e40     0x13ed build/XC32_PIC32MX360F512L/production/mainPIC32SST25FV.o
+ .debug_info    0x0000622d     0x19f4 build/XC32_PIC32MX360F512L/production/_ext/759756063/SST25VF016.o
+ .debug_info    0x00007c21     0x1968 build/XC32_PIC32MX360F512L/production/_ext/759756063/uart2.o
+ .debug_info    0x00009589     0x1423 build/XC32_PIC32MX360F512L/production/_ext/759756063/drv_spi.o
+ .debug_info    0x0000a9ac       0xbf /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(pcache.o)
+ .debug_info    0x0000aa6b       0xb2 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_configure_system_lib.o)
+ .debug_info    0x0000ab1d       0xb6 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_disable_interrupts_lib.o)
+ .debug_info    0x0000abd3       0xb6 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_restore_interrupts_lib.o)
+ .debug_info    0x0000ac89       0xe8 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_info    0x0000ad71       0xc2 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_info    0x0000ae33       0xca /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_info    0x0000aefd       0xdc /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
 .debug_abbrev   0x00000000     0x123c
  *(.debug_abbrev)
@@ -1290,25 +1290,25 @@ END GROUP
  .debug_abbrev  0x000011f2       0x25 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
  .debug_abbrev  0x00001217       0x25 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
-.debug_line     0x00000000     0x158a
+.debug_line     0x00000000     0x1588
  *(.debug_line)
  .debug_line    0x00000000      0x158 build/XC32_PIC32MX360F512L/production/configuration_bits.o
  .debug_line    0x00000158      0x180 build/XC32_PIC32MX360F512L/production/exceptions.o
  .debug_line    0x000002d8      0x158 build/XC32_PIC32MX360F512L/production/interrupts.o
  .debug_line    0x00000430      0x158 build/XC32_PIC32MX360F512L/production/system.o
  .debug_line    0x00000588      0x172 build/XC32_PIC32MX360F512L/production/user.o
- .debug_line    0x000006fa      0x2a1 build/XC32_PIC32MX360F512L/production/mainPIC32SST25FV.o
- .debug_line    0x0000099b      0x317 build/XC32_PIC32MX360F512L/production/_ext/759756063/SST25VF016.o
- .debug_line    0x00000cb2      0x29c build/XC32_PIC32MX360F512L/production/_ext/759756063/uart2.o
- .debug_line    0x00000f4e      0x232 build/XC32_PIC32MX360F512L/production/_ext/759756063/drv_spi.o
- .debug_line    0x00001180       0x62 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(pcache.o)
- .debug_line    0x000011e2       0x71 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_configure_system_lib.o)
- .debug_line    0x00001253       0x73 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_disable_interrupts_lib.o)
- .debug_line    0x000012c6       0x73 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_restore_interrupts_lib.o)
- .debug_line    0x00001339       0x9d /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
- .debug_line    0x000013d6       0x8a /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
- .debug_line    0x00001460       0x8e /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
- .debug_line    0x000014ee       0x9c /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
+ .debug_line    0x000006fa      0x29f build/XC32_PIC32MX360F512L/production/mainPIC32SST25FV.o
+ .debug_line    0x00000999      0x317 build/XC32_PIC32MX360F512L/production/_ext/759756063/SST25VF016.o
+ .debug_line    0x00000cb0      0x29c build/XC32_PIC32MX360F512L/production/_ext/759756063/uart2.o
+ .debug_line    0x00000f4c      0x232 build/XC32_PIC32MX360F512L/production/_ext/759756063/drv_spi.o
+ .debug_line    0x0000117e       0x62 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(pcache.o)
+ .debug_line    0x000011e0       0x71 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_configure_system_lib.o)
+ .debug_line    0x00001251       0x73 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_disable_interrupts_lib.o)
+ .debug_line    0x000012c4       0x73 /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libmchp_peripheral_32MX360F512L.a(int_restore_interrupts_lib.o)
+ .debug_line    0x00001337       0x9d /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-bootstrap-exception-handler.o)
+ .debug_line    0x000013d4       0x8a /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-reset.o)
+ .debug_line    0x0000145e       0x8e /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(default-on-bootstrap.o)
+ .debug_line    0x000014ec       0x9c /opt/microchip/xc32/v1.21/bin/../lib/gcc/pic32mx/4.5.2/../../../../pic32mx/lib/libpic32.a(defaultinterrupt.o)
 
 .debug_frame    0x00000000      0x510
  *(.debug_frame)
